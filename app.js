@@ -1,3 +1,4 @@
+// Select buttons
 const upperCaseButton = document.querySelector('#upper-case');
 const lowerCaseButton = document.querySelector('#lower-case');
 const properCaseButton = document.querySelector('#proper-case');
